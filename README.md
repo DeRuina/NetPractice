@@ -6,6 +6,7 @@
 ---
 
 [Network Fundamentals - NetworkChuck](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+
 [Subneting Mastery - Practical Networking](https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=RDCMUCKmU-GKiukM8LYjkJFb8oBQ&start_radio=1&t=6s)
 
 ## Some definitions :
